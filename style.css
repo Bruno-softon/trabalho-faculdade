@@ -1,0 +1,168 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: black;
+}
+
+.cabecalho {
+    background: greenyellow;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.titulo-cabecalho {
+
+    text-transform: uppercase;
+    color: rgb(11, 69, 119);
+
+
+}
+
+.logo-whatsapp {
+
+    border-radius: 20px;
+    width: 10vw;
+    margin: 2em;
+    opacity: 0.8;
+
+}
+
+.secao-de-dowload {
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    margin-top: 1.5em;
+}
+
+.titulo-secao-de-dowload {
+    color: aliceblue;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 1em;
+}
+
+.texto-como-baixar {
+
+    color: aliceblue;
+
+}
+
+.img-como-baixar {
+    margin: 1em;
+    border-radius: 20px;
+    border: 5px aliceblue solid;
+    opacity: 0.8;
+}
+
+.secao-texto-como-baixar {
+
+    width: 20vw;
+    margin-left: 5em;
+    font-size: 2em;
+
+}
+
+.container-img-como-baixar {
+
+    display: flex;
+
+
+}
+
+.video-como-baixar {
+    margin-left: 4em;
+    opacity: 0.7;
+}
+
+
+.conteudo-principal {
+
+    text-align: center;
+
+}
+
+
+.secao-proximos-passos {
+
+    background-color: green;
+    display: flex;
+    margin-top: 2.5em;
+    align-items: center;
+
+}
+
+.titulo-secao-proximos-passos {
+
+    margin-left: 1em;
+    color: white;
+
+}
+
+.imagem-celular {
+
+    margin: 1.5em;
+    border-radius: 20px;
+}
+
+.secao-iniciando-a-conversa {
+    background-color: black;
+    color: aliceblue;
+
+}
+
+.texto-secao-convesa {
+    margin: 1.5em;
+    text-transform: uppercase;
+}
+
+.foto-status {
+    width: 10vw;
+}
+
+.texto-secao-avancada {
+
+    color: aliceblue;
+    text-transform: uppercase;
+    margin: 2em;
+
+
+}
+
+.texto-configuracao {
+    color: beige;
+    text-transform: uppercase;
+    margin: 2em;
+}
+
+.img-configuracao {
+
+    width: 10vw;
+
+}
+
+.rodape {
+    color: white;
+    text-align: center;
+    background-color: green;
+    text-transform: uppercase;
+    font-size: 1em;
+
+}
+
+.texto-rodape {
+
+    margin-top: 2em;
+
+}
+
+.imagem-rodape {
+
+    margin-top: 10px;
+    border-radius: 20px;
+    width: 5vw;
+}
